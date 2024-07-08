@@ -2,7 +2,7 @@ import burgerMenu from "../../assets/images/icon-menu.svg";
 import { useState } from "react";
 import { SideBar } from "./SideBar";
 
-const links = ["Home", "New", "Popular", "Tending", "Categories"];
+const links = ["Home", "New", "Popular", "Trending", "Categories"];
 
 export const NavBar = () => {
   const [open, setOpen] = useState(false);

@@ -7,7 +7,7 @@ function App() {
   return (
     <main className="px-4 pt-6 xl:px-[150px] xl:py-[80px] font-Inter">
       <Header />
-      <div className="lg:flex lg:gap-5 lg:h-[506px] xl:h-[550px]">
+      <div className="lg:flex lg:gap-5 lg:h-[506px] xl:h-[550px] 2xl-h[600px]">
         <MainComponent />
         <NewsContainer />
       </div>

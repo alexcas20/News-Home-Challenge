@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 - # Frontend Mentor - News homepage
 
-![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
+![Design preview for the News homepage coding challenge](./src/design/desktop-preview.jpg)
 
 ## Welcome! 👋
 

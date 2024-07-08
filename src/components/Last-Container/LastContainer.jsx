@@ -31,7 +31,7 @@ const data = [
 
 export const LastContainer = () => {
   return (
-    <section className="mt-8 md:flex md:flex-wrap md:gap-10 lg:mt-28">
+    <section className="mt-8 md:flex md:flex-wrap md:gap-10 lg:pt-10 xl:pt-40">
         {
             data.map((section) => 
                 <ArticlesContainer key={section.number} data={section}/>

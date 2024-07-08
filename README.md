@@ -11,6 +11,10 @@ Currently, two official plugins are available:
 
 ![Design preview for the News homepage coding challenge](./src/design/desktop-preview.jpg)
 
+## DEMO 🚀
+
+https://news-home-jacs.netlify.app/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
